@@ -1,1 +1,3 @@
 Hello Dr. Iraj
+CSCI60
+Student Jonathan Lee
